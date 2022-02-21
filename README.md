@@ -24,4 +24,6 @@ File_Path: Code/docker_environment
 
 ## How to Run:
 
-## Docker run emis_v1
+In the Terminal run : 
+
+### Docker run emis_v1
