@@ -15,12 +15,12 @@ Though there were many resources but the solution targets at the augmentation an
 	> Mongo DB
 ## Challenges
 
-Due to work commitments at workplace, the project was started on Friday and majorly carried till sunday night and final bits were pushed post office timings on monday(D-day).
+Due to work commitments at workplace, the project was started on Friday and majorly carried till sunday night and final bits were pushed post office timings on Monday(D-day).
 
 ## Future Scope: 
 1. The pipeline to seek specific resource/attributes request from user.
 2. Flask server work is still in progress, may update by midnight of Monday.
-3. Queuing can be taken care by flask but in case at a time large amount of data/files/requests needs to be process, celery could be used.
+3. Queuing can be taken care by flask but in case at a time large amount of data/files/requests needs to be processed, celery could be used.
 
 ## Github Repository:
 https://github.com/nipsachdeva/emis.git
