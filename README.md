@@ -10,7 +10,7 @@ Though there were many resources but the solution targets at the augmentation an
 
 ## Challenges
 
-Due to dearth of time because of work at my current workpace, the project was started on Friday and majorly carried till sunday night and final bits were pushed post office on monday(D day).
+Due to work commitments at workplace, the project was started on Friday and majorly carried till sunday night and final bits were pushed post office on monday(D day).
 
 ## Future Scope: 
 1. The pipeline to seek specific resource/attributes request from user
