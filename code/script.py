@@ -4,7 +4,7 @@ import numpy as np
 import json
 import pymongo
 
-path = "./data"
+path = "./data"   #r"./code/data"
 os.chdir(path)
 files = os.listdir()
 
