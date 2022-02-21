@@ -1,5 +1,6 @@
 # Problem Understanding
-An external system / supplier is sending patient data of patients to EMIS's platform using the FHIR standard. To make it easier for the team to uderstand data and to design business intelligence dashboards the data needs to be processed in workable format.
+An external system / supplier sends patients' data to EMIS's platform using the FHIR standard. 
+This project aims to formulate data that is in structured and workable format and to further design business intelligence dashboards.
 
 # Approach to Solution
 Though there were many resources but the solution targets at the augmentation and preprocessing of patients data. This was done by loading each json file from the system and was search for Patient's resourceType. 
