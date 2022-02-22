@@ -38,5 +38,6 @@ Manual_script_execution: python main.py
 ## How to Run:
 
 In the Terminal run: 
-
-### Docker run emis_v1
+> Docker run emis_v1
+OR
+> Docker run emis_v2 --
