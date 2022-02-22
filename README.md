@@ -24,8 +24,9 @@ Though there were many resources but the solution targets at the augmentation an
 
 ## Future Scope: 
 1. The pipeline to seek specific resource/attributes request from user.
-2. Flask server work is still in progress, may update by midnight of Monday.
+2. Flask server work is still in progress, may update by midnight of Monday. Done
 3. Queuing can be taken care by establishing flask server but in case, large amount of data/files/requests need to be processed, celery could be used.
+4. Docker compost testing environment is set. Connection with MongoDB is left to establish
 
 ## Github Repository:
 https://github.com/nipsachdeva/emis.git
